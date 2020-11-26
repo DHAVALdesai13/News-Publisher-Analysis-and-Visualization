@@ -1,0 +1,128 @@
+[
+    {
+        "categorie": "Counter 1", 
+        "values": [
+            {
+                "value": 0, 
+                "rate": "Memory"
+            }, 
+            {
+                "value": 4, 
+                "rate": "CPU"
+            }, 
+            {
+                "value": 12, 
+                "rate": "Throughput"
+            }, 
+            {
+                "value": 6, 
+                "rate": "Latency"
+            }
+        ]
+    }, 
+    {
+        "categorie": "Counter 2", 
+        "values": [
+            {
+                "value": 1, 
+                "rate": "Memory"
+            }, 
+            {
+                "value": 21, 
+                "rate": "CPU"
+            }, 
+            {
+                "value": 13, 
+                "rate": "Throughput"
+            }, 
+            {
+                "value": 18, 
+                "rate": "Latency"
+            }
+        ]
+    }, 
+    {
+        "categorie": "Counter 3", 
+        "values": [
+            {
+                "value": 3, 
+                "rate": "Memory"
+            }, 
+            {
+                "value": 22, 
+                "rate": "CPU"
+            }, 
+            {
+                "value": 6, 
+                "rate": "Throughput"
+            }, 
+            {
+                "value": 15, 
+                "rate": "Latency"
+            }
+        ]
+    }, 
+    {
+        "categorie": "Counter 4", 
+        "values": [
+            {
+                "value": 12, 
+                "rate": "Memory"
+            }, 
+            {
+                "value": 7, 
+                "rate": "CPU"
+            }, 
+            {
+                "value": 18, 
+                "rate": "Throughput"
+            }, 
+            {
+                "value": 13, 
+                "rate": "Latency"
+            }
+        ]
+    }, 
+    {
+        "categorie": "Counter 5", 
+        "values": [
+            {
+                "value": 6, 
+                "rate": "Memory"
+            }, 
+            {
+                "value": 15, 
+                "rate": "CPU"
+            }, 
+            {
+                "value": 9, 
+                "rate": "Throughput"
+            }, 
+            {
+                "value": 12, 
+                "rate": "Latency"
+            }
+        ]
+    }, 
+    {
+        "categorie": "Counter 6", 
+        "values": [
+            {
+                "value": 6, 
+                "rate": "Memory"
+            }, 
+            {
+                "value": 6, 
+                "rate": "CPU"
+            }, 
+            {
+                "value": 6, 
+                "rate": "Throughput"
+            }, 
+            {
+                "value": 2, 
+                "rate": "Latency"
+            }
+        ]
+    }
+]
